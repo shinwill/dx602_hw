@@ -1,2 +1,2 @@
-# homework1
-variables, literals, numbers, arithmetic, strings, lists
+# dx602_hw
+python programming homework uploads
